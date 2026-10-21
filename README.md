@@ -1,4 +1,4 @@
-# Git Branching Practice
+## Git Branching Practice
 
 A beginner-friendly hands-on project to understand Git branching, commits, merging, and conflict resolution using Git and GitHub.
 
